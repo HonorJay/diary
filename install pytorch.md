@@ -18,7 +18,9 @@ https://pytorch.org/get-started/previous-versions/
 
 저는 윈도우에 쿠다11.0을 사용중이기에 
 
+```python
 pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+```
 
 요 명령어를 통해 설치해주었습니다.
 
